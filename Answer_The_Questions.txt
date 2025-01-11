@@ -1,0 +1,4 @@
+1. The sequence is not correct
+2. Correct sequence: [(())()(())]
+ Remove the last "]" from the sequence;
+ Remove the first "(" from the sequence;
